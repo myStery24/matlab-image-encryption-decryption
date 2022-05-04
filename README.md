@@ -8,6 +8,8 @@ A MATLAB program that encrypts and decrypts an image using XOR (One Time Pad) op
 ### Files
 | Name             | Description                                                               |
 |------------------|---------------------------------------------------------------------------|
+| results  | A folder to store/save the encrypted (Encoded.jpg) and decrypted (Decoded.jpg) images. |
+| FSKTM_Image.png   | A PNG image for encryption. |
 | imageEncryptionGui.fig | Edit this file if you want to make changes to the user interface of the program.                        |
 | imageEncryptionGui.m        | Run this file to begin with the encryption and decryption operation.              |
 | imageProcess.m    |  Encrypt and decrypt using XOR. |
