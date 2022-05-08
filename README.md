@@ -26,3 +26,6 @@ A MATLAB program that encrypts and decrypts an image using XOR (One Time Pad) op
 |-----|---------------------------------------------------------------------------------------------------------------------|
 | 1.  | [Image Encryption by busy](https://www.mathworks.com/matlabcentral/fileexchange/27698-image-encryption)             |
 | 2.  | [Why is Exclusive Or (XOR) Important in Cryptography?](https://blog.boot.dev/cryptography/why-xor-in-cryptography/) |
+
+### GitHub
+https://github.com/myStery24/matlab-image-encryption-decryption
