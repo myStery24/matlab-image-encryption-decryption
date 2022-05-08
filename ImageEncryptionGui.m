@@ -1,3 +1,11 @@
+%% Course: MULTIMEDIA SECURITY TECHNOLOGY
+% Course Code: BIM33404
+% LAB ASSIGNMENT 2: CRYPTOGRAPHY, VIRUS AND MALICIOUS CODE
+
+% Original Author: busy
+
+% Modified by: LEE ZI HUI (AI190244)
+
 % GUI of the program
 function varargout = ImageEncryptionGui(varargin)
 gui_Singleton = 1;
