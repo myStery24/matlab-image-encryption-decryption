@@ -17,6 +17,9 @@ A MATLAB program that encrypts and decrypts an image using XOR (One Time Pad) op
 | keyGen.m               | Generate a key.                                                                        |
 | Lena.jpg               | A grayscale image in JPG format.                                                       |
 | license.txt            | A license document.                                                                    |
+| program_img.png        | Show the graphical user interface of the program.                                      |
+| program_img1.png       | Show the result.                                                                       |
+| UTHM_Library.jpg       | A colour image in JPG format.                                                          |
 
 ### References
 | No. | Website                                                                                                             |
